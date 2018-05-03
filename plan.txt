@@ -1,0 +1,9 @@
+﻿- Install MATLAB
+- Run example with MATLAB
+- Run PCA with MATLAB
+- Run AAM with MATLAB
+- Xem lại tờ giấy hơn bữa thầy gợi ý
+- Xem là so sánh cái gì trong bài báo: ta vs người, anns vs svm
+- Xem cách viết bài báo
+- Soạn ra cấu trúc bài báo
+- Huấn luyện tập dữ liệu
