@@ -1,0 +1,17 @@
+﻿Convolutional Neural Network
+Six human emotions: neutral, happy, sad, angry, surprised and afraid
+Python
+Caffe Deep Learning framework 
+CUDA CuDNN libraries
+Webcam and tools in OpenCV
+
+1. Đặc trưng Haar-like
+2. Bộ phân loại Adaboost
+3. Đặc trưng hình học của khuôn mặt
+4. Đường cong Bezier
+5. Mạng nơ-ron
+5.1. Định nghĩa mạng nơ-ron
+5.2. Nơ-ron sinh học và nơ-ron nhân tạo
+5.3. Mô hình mạng nơ-rson
+5.4 Mạng nhiều tầng truyền thẳng MLp
+5.5 Huấn luyện mạng nơ-rón
