@@ -1,9 +1,9 @@
-﻿- Install MATLAB
+- Install MATLAB
 - Run example with MATLAB
 - Run PCA with MATLAB
 - Run AAM with MATLAB
-- Xem lại tờ giấy hơn bữa thầy gợi ý
-- Xem là so sánh cái gì trong bài báo: ta vs người, anns vs svm
-- Xem cách viết bài báo
-- Soạn ra cấu trúc bài báo
-- Huấn luyện tập dữ liệu
+- Fix the content of the paper which Mr. Bao gave it to me and follow it.
+- Comparing in the journal: my research with others ; among techniques like ANN vs SMC, PCA vs AU
+- Learn how to write a science journal
+- Making structure of the journal
+- Create a train model
