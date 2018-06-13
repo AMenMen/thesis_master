@@ -7,3 +7,5 @@
 - Learn how to write a science journal
 - Making structure of the journal
 - Create a train model
+- Using this model, predict new item
+- Use Qt Py to create GUI application
